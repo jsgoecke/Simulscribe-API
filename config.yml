@@ -1,0 +1,7 @@
+#Simulscribe connection details
+api_key: "xxx"
+account_did: "999"
+simulscribe_url: https://apps.simulscribe.com/messages.xml
+
+#API details
+requesting_host: https://mydomain/receive_transcription
